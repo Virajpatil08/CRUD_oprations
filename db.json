@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "username": "bobbrown",
+      "email": "bobbrown@example.com",
+      "phone": "456-789-0123",
+      "website": "bobbrown.com"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "username": "charlied",
+      "email": "charlied@example.com",
+      "phone": "567-890-1234",
+      "website": "charliedavis.com"
+    },
+    {
+      "id": "7a46",
+      "name": "Viraj Patil",
+      "email": "vrajpatil4444@gmail.com",
+      "phone": "7767806564"
+    },
+    {
+      "id": "fa7d",
+      "name": "Jane Smith Kohli",
+      "email": "vrajpatil4444@gmail.com",
+      "phone": "7767806564"
+    },
+    {
+      "id": "96e9",
+      "name": "Viraj Patil1",
+      "email": "vrajpatil4444@gmail.com",
+      "phone": "7767806564"
+    }
+  ]
+}
