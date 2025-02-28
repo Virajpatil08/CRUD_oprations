@@ -1,5 +1,21 @@
 # Getting Started with Create React App
 
+CRUD Operations
+
+Overview
+
+This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using React,Javascript,Bootstrap. It provides a simple interface to manage data efficiently.
+
+Features
+
+Create new records
+
+Read and display existing records
+
+Update records with new information
+
+Delete records
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
